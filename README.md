@@ -2,7 +2,7 @@
 
 
 
-***Image Processing - RGB Layer Separation and Image Resizing***
+**Image Processing - RGB Layer Separation and Image Resizing**
 
 This repository contains functions to process color images in MATLAB. The main function, displayRGB(filename), allows you to display a color image and separately show its red, green, and blue layers. The code also resizes the image by interpolating each color layer to ensure that the larger dimension has 800 pixels while maintaining the aspect ratio.
 
